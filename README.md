@@ -19,9 +19,7 @@ Objectives
 Designs Verified
 
 1. 4-bit Counter
-2. Synchronous FIFO
-3. Round-Robin Arbiter
-4. Traffic Light FSM
+
 
 Tools & Technologies
 
